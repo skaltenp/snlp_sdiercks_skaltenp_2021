@@ -4,6 +4,8 @@ Created by:
 Sören Diercks     7043882
 Sascha Kaltenpoth 7009861
 
+Our name for the GERBIL Fact Checking challenge is: skaltenp_sdiercks (AUC: 0.6336265103056145 in last submission)
+
 ## Run code
 To run our code there is no preparation needed.
 You only have to click the button "Open in Colab" and the run all cells.
