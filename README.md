@@ -7,4 +7,6 @@ Sascha Kaltenpoth 7009861
 ## Run code
 To run our code there is no preparation needed.
 You only have to click the button "Open in Colab" and the run all cells.
+Under "Bearbeiten > Notebook-Einstellungen" one can set "Hardwarebeschleuniger" to GPU, to increase the speed.
+(To run the GPU-version you need a google colab pro subscription.)
 After that the file will be located in the folder "/content/result.tll" in the colab instance.
