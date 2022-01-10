@@ -10,5 +10,4 @@ Our name for the GERBIL Fact Checking challenge is: skaltenp_sdiercks (AUC: 0.63
 To run our code there is no preparation needed, except login to a google account, because we deployed it on google colab.
 Open the file snlp_skaltenp_sdiercks.ipynb and click "Open with Colab" on the upper left side.
 Under "Bearbeiten > Notebook-Einstellungen" one can set "Hardwarebeschleuniger" to GPU or CPU.
-(To run the GPU-version you need a google colab pro subscription, but it will decrease training time.)
 After that the file will be located in the folder "/content/result.tll" in the colab instance.
